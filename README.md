@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Nicolas! 👋
 
-<!--
-**nicosaadjian/nicosaadjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves building **backend applications** and I'm also getting friendly with **frontend development**. Throughout my career, I've worked as a **Backend Developer**, **Data Engineer**, and **Manual QA**, giving me a well-rounded perspective on software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Full Stack Development
+- **Backend:** Node.js (Express) + TypeScript
+- **Frontend:** Next.js (React + Tailwind CSS)
+- **Database:** PostgreSQL
+- **DevOps:** Docker + AWS ☁️
+
+### Data Engineering
+- **Languages:** Python + SQL
+- **Focus:** Data pipelines, ETL processes, and analytics
+
+## 🌱 Currently
+
+I'm continuously improving my frontend skills while maintaining my strong foundation in backend and data engineering. Always excited to learn new technologies and solve challenging problems!
+
+---
+
+💡 *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
