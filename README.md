@@ -13,7 +13,8 @@ I'm a passionate developer who loves building **backend applications** and I'm a
 - **DevOps:** Docker + AWS ☁️
 
 ### Data Engineering
-- **Languages:** Python + SQL
+- **Stack:** Python + SQL
+- **DevOps:** Docker + AWS
 - **Focus:** Data pipelines, ETL processes, and analytics
 
 ## 🌱 Currently
